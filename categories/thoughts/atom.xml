@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: thoughts | Thought Conduit]]></title>
+  <link href="http://remear.github.com/categories/thoughts/atom.xml" rel="self"/>
+  <link href="http://remear.github.com/"/>
+  <updated>2015-03-13T12:12:41-06:00</updated>
+  <id>http://remear.github.com/</id>
+  <author>
+    <name><![CDATA[Ben Mills]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Emergence]]></title>
+    <link href="http://remear.github.com/emergence"/>
+    <updated>2013-03-06T15:14:00-07:00</updated>
+    <id>http://remear.github.com/emergence</id>
+    <content type="html"><![CDATA[<p>One of the top requests I get from people is to bring my blog back and give insight into my many projects and interests.</p>
+
+<p>This is where you will find such information. More to come.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ruby | Thought Conduit]]></title>
+  <link href="http://remear.github.com/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://remear.github.com/"/>
+  <updated>2015-03-13T12:12:41-06:00</updated>
+  <id>http://remear.github.com/</id>
+  <author>
+    <name><![CDATA[Ben Mills]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rubies Screen Saver]]></title>
+    <link href="http://remear.github.com/rubies-screensaver"/>
+    <updated>2015-03-12T12:05:00-06:00</updated>
+    <id>http://remear.github.com/rubies-screensaver</id>
+    <content type="html"><![CDATA[<p><video width='700' height='393' preload='metadata' autoplay loop poster='/images/posts/ruby-screensaver-still.jpg'><source src='/assets/rubies-screensaver.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p>Hey Ruby community!</p>
+
+<p>Last night I was tinkering around with some Quartz graphics and made a Ruby screen saver.</p>
+
+<ul>
+<li>- <a href="/downloads/rubies-screensaver.zip">Grab it</a></li>
+<li>- Drop it into <code>~/Library/Screen\ Savers/</code></li>
+<li>- Go to System Preferences -> Desktop &amp; Screen Saver -> Screen Saver</li>
+<li>- Select the "Rubies" screen saver</li>
+</ul>
+
+
+<p>Like it or want to get in touch? Let me know on Twitter or via the comments section.</p>
+]]></content>
+  </entry>
+  
+</feed>
